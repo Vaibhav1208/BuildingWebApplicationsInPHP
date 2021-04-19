@@ -1,7 +1,7 @@
 <html>
 <body>
-<title> Anamitra Musib 41884c79 </title>
-<h1> Welcome to my guessing game</h1>
+<title> Vaibhav Srivastava (RA1811003030017) </title>
+<h1> 2b945945</h1>
 
 <?php
 $correctnumber=26; //change this number //
